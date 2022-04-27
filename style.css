@@ -19,7 +19,6 @@ body{
 .nav{
     display: flex;
     justify-content: space-between;
-    
     margin-bottom: 32px;
 }
 ul{
@@ -34,4 +33,30 @@ a{
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.paragraph{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 400px;
+}
+
+.main_text{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom: 8px;
+}
+.secondary_text{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 8px;
+}
+button{
+    border-radius: 10px;
+    background-color: #3882F6;
+    padding: 8px 20px;
+    color: white;
 }
