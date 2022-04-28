@@ -68,3 +68,37 @@ button{
     background-color: #8093b0;
     color: white;
 }
+
+.information{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 250px 80px 250px;
+}
+
+.title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-bottom: 40px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
+img{
+    border: 2px solid #3882F6;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+.subtext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+}
+.info{
+    text-align: center;
+}
