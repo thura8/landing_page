@@ -102,3 +102,10 @@ img{
 .info{
     text-align: center;
 }
+.quote{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 250px 80px 250px;
+}
+
+
