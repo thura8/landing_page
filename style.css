@@ -62,7 +62,6 @@ button{
 }
 .placeholder{
     width: 550px;
-    border: 1px solid white;
     display: flex;
     align-items: center;
     justify-content: center;
